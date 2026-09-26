@@ -1,4 +1,4 @@
-# 🤖 MYRA AI Assistant
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/image.png" width="250" alt="MYRA AI Logo">
